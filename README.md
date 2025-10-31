@@ -16,7 +16,7 @@ This repository presents research on quantum information portals and bridge netw
 
 ### Paper
 
-**Quantum_Information_Portals_and_Bridge_Networks.md**
+**Quantum_Information_Portals_and_Bridge_Networks**
 
 Comprehensive study of quantum portals covering:
 - Master Equation crystallization theory
@@ -56,6 +56,8 @@ Independent Quantum Research
 ### License
 
 © 2025 Subvurs Research. All rights reserved.
+
+**FOR PEER REVIEW AND REPLICABILITY REQUESTS, PLEASE EMAIL - research@subvurs.com.**
 
 ### Related Work
 
